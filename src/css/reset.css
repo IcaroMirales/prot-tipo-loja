@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    max-width: 95.6%;
+    margin: 0.7em auto;
+    background-color: rgb(231, 229, 229);
+}
+
+ul, li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
